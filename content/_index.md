@@ -1,10 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
   - section_id: hero
     type: section_hero
     image: images/7_thumb.jpg
@@ -17,6 +13,10 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+  - section_id: recent-posts
+    type: section_posts
+    background: gray
+    title: Latest Posts
   - section_id: features
     type: section_features
     background: gray
