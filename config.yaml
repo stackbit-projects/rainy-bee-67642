@@ -14,7 +14,7 @@ params:
       - label: Features
         url: /features
         style: link
-      - label: Pricing
+      - label: Projects
         url: /pricing
         style: link
       - label: Style Guide
