@@ -5,7 +5,7 @@ params:
   palette: orange
   header:
     logo_img: images/logo.svg
-    logo_img_alt: Logo
+    logo_img_alt: L
     has_nav: true
     nav_links:
       - label: Home
