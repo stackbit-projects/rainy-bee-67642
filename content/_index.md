@@ -1,6 +1,10 @@
 ---
 title: Home
 sections:
+  - section_id: recent-posts
+    type: section_posts
+    background: gray
+    title: Latest Posts
   - section_id: hero
     type: section_hero
     image: images/7_thumb.jpg
@@ -95,10 +99,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
 layout: landing
